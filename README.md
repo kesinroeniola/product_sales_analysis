@@ -30,4 +30,5 @@ __The dataset includes the following columns:__
 + Gender: Gender of the buyer.
 + Revenue: Revenue generated from each sale.
 
+[to view the data visualization click here](https://ibb.co/4nhy0FKq)
 
