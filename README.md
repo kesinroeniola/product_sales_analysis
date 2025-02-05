@@ -32,3 +32,6 @@ __The dataset includes the following columns:__
 
 [to view the data visualization click here](https://ibb.co/4nhy0FKq)
 
+
+#### Product sales data visualization 
+![product sales data visualization](https://github.com/user-attachments/assets/f8360916-bf42-4280-a7e1-474f59adcef7)
